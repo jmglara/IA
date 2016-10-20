@@ -227,7 +227,7 @@ printf("\t\t\t\t\t\t  %d    | %d    | %d   \n\n\n",tablero[2][0],tablero[2][1],t
         case 2:
              
                
-                printf("\t\t\t\t\t %s  Que posicion decea jugar?  \n",& usuario);
+                printf("\t\t\t\t\t %s  Que posicion desea jugar?  \n",& usuario);
                 scanf("\t\t\t\t\t %d",&posicion);
                  
                   for (int x=0; x<8;x++) 
